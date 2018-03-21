@@ -1,2 +1,6 @@
-# hello-world
-magic13
+#include <stdio.h> 
+
+int main()
+{
+  printf("Hello, World!\n"); 
+}
